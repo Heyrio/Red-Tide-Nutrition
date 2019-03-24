@@ -5,9 +5,11 @@
 	padding: 0.5%;
 }
 
-#rd{
-	color: red;
+.rd{
+	color: red !important;
 }
+
+
 
 #pin {
 	color: white;
@@ -43,5 +45,40 @@
 }
 
 #heartBox{
-	margin-top: 100vh;
+	display: flex;
+	justify-content: center;
+	padding: 10px;
+	margin-top: -10em;
+	font-family: 'Knewave', cursive;
+	width: 50%;
+	margin-bottom: 10%;
+	
+}
+
+.picL {
+	margin-left: 10px;
+}
+
+li:hover {
+	border-bottom: 3px;
+	text-decoration-color: red;
+	text-decoration: underline;
+}
+
+.carousel img {
+ 
+	object-fit: contain;
+	min-width: 100%;
+	height: 500px;
+	max-width: none;
+}
+
+.hd {
+	display: flex;
+	justify-content: center;
+}
+
+.spcFont {
+	color: red;
+	
 }
