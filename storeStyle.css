@@ -1,0 +1,47 @@
+#barOne{
+	display: flex;
+	justify-content: space-around;
+	background-color: black;
+	padding: 0.5%;
+}
+
+#rd{
+	color: red;
+}
+
+#pin {
+	color: white;
+	float: right;
+	cursor: pointer;
+}
+
+.picR {
+	margin-right: 1px;
+}
+
+.jumbotron {
+	
+	margin-bottom: 0;
+	background-color: white;
+	font-family: 'Knewave', cursive;
+	color: red;
+
+}
+
+.bg {
+	background-color: black;
+}
+
+#fit{
+
+	height: 100vh;
+	background-image: url(fit.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover; 
+    
+}
+
+#heartBox{
+	margin-top: 100vh;
+}
