@@ -80,5 +80,46 @@ li:hover {
 
 .spcFont {
 	color: red;
-	
+
 }
+
+#fb {
+	color: #4267B2;
+	cursor: pointer;
+	margin-right: 1%;
+}
+
+#fb:hover {
+	font-size: 10em;
+}
+
+#twt {
+	color: #55ADED;
+	cursor: pointer;
+}
+
+#twt:hover {
+	font-size: 10em;
+}
+
+#prot {
+	margin-top: 5%;
+}
+
+.divider {
+	padding: 1%;
+	background-color: black;
+	color: white;
+}
+
+.bgc {
+	background-color: black;
+	color: white;
+}
+
+.btn {
+	padding: 2px;
+	outline: none;
+}
+
+
